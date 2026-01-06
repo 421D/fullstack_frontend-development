@@ -52,7 +52,7 @@ An Android finance management application built with **Java** in **Android Studi
 
 
 ### ② Java Desktop Systems
-#### [Hotel Management System（酒店管理系统）(./Java_projects)
+#### [Hotel Management System（酒店管理系统）](./Java_projects)
 
 A **full-featured desktop management system** using **Java Swing + SQL Server**, supporting authentication, room management, billing, and role-based access.
 
