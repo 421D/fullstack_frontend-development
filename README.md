@@ -7,33 +7,7 @@ The projects range from **early-stage frontend practice** to **complete applicat
 
 ---
 
-## Repository Structure
-
-```
-fullstack_frontend-development/
-│
-├── Android_Projects/
-│ └── Daily Finance App (Android / Java)
-│
-├── Java_projects/
-│ └── Hotel Management System (Java Swing + SQL Server)
-│
-├── WeChatMiniProgram_Projects/
-│ ├── Community Convenience Service System
-│ ├── PM2.5 Studio Mini Program
-│ └── MediaHub
-│
-└── Web_Projects/
-├── LegalAid_Platform_Prototype (Figma)
-├── Mobile_ECommerce_Mockup
-├── YiCha_Static
-├── YiCha_Dynamic_DedeCMS
-└── MAC_Cosmetic_Shop
-```
-
----
-
-## Tech Stack Overview
+## 1. Tech Stack Overview
 
 ### Frontend
 - HTML5 / CSS3 / JavaScript (ES6+)
@@ -58,11 +32,11 @@ fullstack_frontend-development/
 - Gradle
 - Git / GitHub
 
----
 
-## Projects Index
 
-### 📱 Android Projects
+## 2. Projects Index
+
+### Android Projects
 #### [Daily Finance App（今日理财资讯）](./Android_Projects)
 
 An Android finance management application built with **Java** in **Android Studio**, focusing on structured data display and local persistence.
@@ -75,9 +49,9 @@ An Android finance management application built with **Java** in **Android Studi
 
 **Key Tech:** Java, Android SDK, RecyclerView, JSON, MediaPlayer
 
----
 
-### 🖥 Java Desktop Systems
+
+### Java Desktop Systems
 #### [Hotel Management System | 酒店管理系统](./Java_projects)
 
 A **full-featured desktop management system** using **Java Swing + SQL Server**, supporting authentication, room management, billing, and role-based access.
@@ -85,14 +59,14 @@ A **full-featured desktop management system** using **Java Swing + SQL Server**,
 **Highlights**
 - Swing-based GUI with modular OOP architecture
 - JDBC-driven database operations
-- Separate authentication server and main client
+- Separate the authentication server and the main client
 - Complete hotel workflow: check-in, dining, billing, checkout
 
 **Key Tech:** Java, Swing, JDBC, SQL Server
 
----
 
-### 📲 WeChat Mini Program Projects
+
+### WeChat Mini Program Projects
 #### [WeChat Mini Program Projects Collection](./WeChatMiniProgram_Projects)
 
 A set of Mini Programs showcasing **frontend engineering + cloud backend integration** within the WeChat ecosystem.
@@ -105,9 +79,9 @@ A set of Mini Programs showcasing **frontend engineering + cloud backend integra
 
 **Key Tech:** WeChat Cloud Development, Tencent Cloud DB, WeChat Native APIs
 
----
 
-### 🌐 Web Projects
+
+### Web Projects
 #### [Web Projects Collection](./Web_Projects)
 
 A progression from **static frontend pages** to **CMS-driven dynamic websites** and **professional UI/UX prototypes**.
@@ -120,9 +94,9 @@ A progression from **static frontend pages** to **CMS-driven dynamic websites** 
 
 **Key Tech:** HTML, CSS, JS, jQuery, PHP, CMS, Figma
 
----
 
-## Skills Demonstrated
+
+## 3. Skills Demonstrated
 
 - Frontend architecture & UI component design
 - Full CRUD workflows across platforms
@@ -132,9 +106,8 @@ A progression from **static frontend pages** to **CMS-driven dynamic websites** 
 - User-centred design (UCD) & accessibility
 - Cross-platform development mindset
 
----
 
-## Positioning Note
+## 4. Positioning Note
 
 This repository reflects **hands-on full-stack capability** rather than isolated demos:
 - Mobile (Android)
@@ -144,4 +117,31 @@ This repository reflects **hands-on full-stack capability** rather than isolated
 
 Each project focuses on **real application structure**, **data flow**, and **user interaction**, aligned with industry expectations for junior–mid full-stack or frontend engineers.
 
----
+
+
+
+## 5. Repository Structure
+
+```
+fullstack_frontend-development/
+│
+├── Android_Projects/
+│ └── Daily Finance App (Android / Java)
+│
+├── Java_projects/
+│ └── Hotel Management System (Java Swing + SQL Server)
+│
+├── WeChatMiniProgram_Projects/
+│ ├── Community Convenience Service System
+│ ├── PM2.5 Studio Mini Program
+│ └── MediaHub
+│
+└── Web_Projects/
+├── LegalAid_Platform_Prototype (Figma)
+├── Mobile_ECommerce_Mockup
+├── YiCha_Static
+├── YiCha_Dynamic_DedeCMS
+└── MAC_Cosmetic_Shop
+```
+
+
