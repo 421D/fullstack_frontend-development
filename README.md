@@ -36,8 +36,8 @@ The projects range from **early-stage frontend practice** to **complete applicat
 
 ## 2. Projects Index
 
-### Android Projects
-#### [Daily Finance App（今日理财资讯）](./Android_Projects)
+### ① Android Projects
+#### [Daily News App（今日理财资讯）](./Android_Projects)
 
 An Android finance management application built with **Java** in **Android Studio**, focusing on structured data display and local persistence.
 
@@ -51,8 +51,8 @@ An Android finance management application built with **Java** in **Android Studi
 
 
 
-### Java Desktop Systems
-#### [Hotel Management System | 酒店管理系统](./Java_projects)
+### ② Java Desktop Systems
+#### [Hotel Management System（酒店管理系统）(./Java_projects)
 
 A **full-featured desktop management system** using **Java Swing + SQL Server**, supporting authentication, room management, billing, and role-based access.
 
@@ -66,31 +66,30 @@ A **full-featured desktop management system** using **Java Swing + SQL Server**,
 
 
 
-### WeChat Mini Program Projects
-#### [WeChat Mini Program Projects Collection](./WeChatMiniProgram_Projects)
+### ③ WeChat Mini Program Projects
+#### [WeChat Mini Program Projects Collection（微信小程序集）](./WeChatMiniProgram_Projects)
 
 A set of Mini Programs showcasing **frontend engineering + cloud backend integration** within the WeChat ecosystem.
 
 | Project | Focus | Tech |
 |-------|------|------|
-| Community Convenience Service System | Community & property management | Cloud DB, Cloud Functions |
-| PM2.5 Studio | Media & creative platform | WXML, WXSS, JS |
-| MediaHub | Multimedia & system tools | WeChat APIs |
+|Community_WeChat_MiniProgram | Community & property management | Cloud DB, Cloud Functions |
+|PM25Studio_WeChat_MiniProgram | Media & creative platform | WXML, WXSS, JS |
+|MediaHub_WeChat_MiniProgram | Multimedia & system tools | WeChat APIs |
 
 **Key Tech:** WeChat Cloud Development, Tencent Cloud DB, WeChat Native APIs
 
 
 
-### Web Projects
+### ④ Web Projects
 #### [Web Projects Collection](./Web_Projects)
 
 A progression from **static frontend pages** to **CMS-driven dynamic websites** and **professional UI/UX prototypes**.
 
 **Included Projects**
-- LegalAid Platform Prototype (Figma, UCD-driven)
 - Mobile E-Commerce Mockup (HTML/CSS/JS)
 - YiCha Static & Dynamic Tea Website (jQuery + Dedecms)
-- MAC Cosmetic Shop (multi-page frontend)
+- Cosmetic_Store_Mockup
 
 **Key Tech:** HTML, CSS, JS, jQuery, PHP, CMS, Figma
 
@@ -126,22 +125,21 @@ Each project focuses on **real application structure**, **data flow**, and **use
 fullstack_frontend-development/
 │
 ├── Android_Projects/
-│ └── Daily Finance App (Android / Java)
+│ └── Daily News App (Android / Java)
 │
 ├── Java_projects/
 │ └── Hotel Management System (Java Swing + SQL Server)
 │
 ├── WeChatMiniProgram_Projects/
-│ ├── Community Convenience Service System
-│ ├── PM2.5 Studio Mini Program
-│ └── MediaHub
+│ ├── Community_WeChat_MiniProgram
+│ ├── PM25Studio_WeChat_MiniProgram
+│ └── MediaHub_WeChat_MiniProgram
 │
 └── Web_Projects/
-├── LegalAid_Platform_Prototype (Figma)
 ├── Mobile_ECommerce_Mockup
 ├── YiCha_Static
 ├── YiCha_Dynamic_DedeCMS
-└── MAC_Cosmetic_Shop
+└── Cosmetic_Store_Mockup
 ```
 
 
